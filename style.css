@@ -9,7 +9,7 @@ html{
 }
 
 span{
-    color: white;
+    color: white !important;
 }
 
 body {
