@@ -8,6 +8,10 @@ html{
     scroll-behavior: smooth;
 }
 
+span{
+    color: white;
+}
+
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
