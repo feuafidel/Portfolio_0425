@@ -8,7 +8,7 @@ html{
     scroll-behavior: smooth;
 }
 
-span{
+.hero-text span{
     color: white !important;
 }
 
